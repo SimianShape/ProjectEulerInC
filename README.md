@@ -1,2 +1,2 @@
 # ProjectEulerInC
-Project Euler problem programs (https://projecteuler.net/). Programmed in C
+Project Euler problem programs (https://projecteuler.net/). Programmed in C.
